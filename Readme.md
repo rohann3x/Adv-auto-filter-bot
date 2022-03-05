@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot/fork">
+  <a href="https://github.com/rohann3x/Adv-auto-filter-bot">
     <img src="https://img.shields.io/github/forks/AlbertEinsteinTG/Adv-Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
